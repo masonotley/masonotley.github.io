@@ -12,7 +12,7 @@ _**[10-K Sentiment Analysis and Stock Returns](report/report.md)**_
 
 This analysis examines how the sentiment of 10-K files affects the stock returns of companies in the short term. Sentiment scores for positivity and negativity were calculated using four sentiment dictionaries, and the stock returns of the 10 days following the release were examined to see the affect of the 10-K filing. 
 
-<img src="images/output_10_1.png?raw=true"/>
+<img src="report/output_10_1.png?raw=true"/>
 
 ---
 
