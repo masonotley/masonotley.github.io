@@ -1,4 +1,8 @@
-# Final Report: Assignment 5 a.k.a Midterm
+---
+layout: wide_default
+---
+
+# Final Report: Midterm
 ### Mason Otley
 This file is the final report of the work done in this repo. It will contain my analysis of the process and results of the sentiment analysis done on firms in the S&P500. To help illustrate the insights gained in this analysis, this report will include some code which will generate regressions and plots which illustrate the relationship between the return variables and various sentiment variables. This report will seek to answer the question of how firms' stock returns are effected in the short term by the release of their 10K files, and how the sentiment of their 10K file can affect the reaction of the stock price. 
 
