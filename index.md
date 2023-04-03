@@ -1,14 +1,6 @@
 ## About Me
 
-What's up? hey\|you
-
-I am an awesome student at Lehigh, you should hire me!
-
-<!-- Upload your own photo and change the path -->
-
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
-</p>
+My name is Mason Otley, and I am a student at Lehigh University. I am graduating in May, 2023 with a B.S. in business and economics as a finance major. I am excited to put my skills to work in several industries including investment banking, corporate finance, or consulting. Please reach me via email at mason.otley4@gmail.com. 
 
 ---
 
