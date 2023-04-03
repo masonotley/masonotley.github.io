@@ -8,11 +8,11 @@ My name is Mason Otley, and I am a student at Lehigh University. I am graduating
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
+_**[10-K Sentiment Analysis and Stock Returns](report/report.md)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+This analysis examines how the sentiment of 10-K files affects the stock returns of companies in the short term. Sentiment scores for positivity and negativity were calculated using four sentiment dictionaries, and the stock returns of the 10 days following the release were examined to see the affect of the 10-K filing. 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/output_10_1.jpg?raw=true"/>
 
 ---
 
