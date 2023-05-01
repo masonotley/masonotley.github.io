@@ -45,8 +45,11 @@ Wherever I am in the future, I am looking forward to the opportunity to use my s
 ## Hobbies
 
 Golf: I am currently a 12.8 handicap, and my goal is to be scratch one day.
+
 Personal Fitness: The gym and cooking for myself are big parts of my life.
+
 Personal Investing: I enjoy managing my own brokerage account of personal savings.
+
 TV Shows: Currently watching Succession, Barry, and JoJo's Bizzare Adventure. Always open to recommendations!
 
 ---
