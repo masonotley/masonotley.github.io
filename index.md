@@ -1,6 +1,6 @@
 ## About Me
 
-My name is Mason Otley, and I am a student at Lehigh University. I am graduating in May, 2023 with a B.S. in business and economics as a finance major. I am excited to put my skills to work in several industries including investment banking, corporate finance, or consulting. Please reach me via email at mason.otley4@gmail.com. 
+My name is Mason Otley, and I am recent graduate of Lehigh University. I graduated with a B.S. in business and economics as a finance major. This summer, I am starting my career at Fiserv on their sales enablement team, where I am excited to learn and grow as a professional. Please reach me via email at mason.otley4@gmail.com, or connect with me on LinkedIn. 
 
 ---
 
@@ -33,19 +33,19 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Wherever I am in the future, I am looking forward to the opportunity to use my skills in finance and business analysis to create value for my firm. The last four years at Lehigh Univeristy have given me the confidence to pursue a variety of roles in investment banking, corporate finance, consulting, and other related fields. 
+In the future, I am looking forward to the opportunity to use my skills in finance and business analysis to create value for my firm. The last four years at Lehigh Univeristy have given me the skills and experience to be successful and grow in any environment, and I cannot wait to get started at Fiserv in June. 
 
 ---
 
 ## Hobbies
 
-Golf: I am currently a 12.8 handicap, and my goal is to be scratch one day.
+**Golf:** I am currently a 12.8 handicap, and my goal is to be scratch one day.
 
-Personal Fitness: The gym and cooking for myself are big parts of my life.
+**Personal Fitness:** The gym and cooking for myself are big parts of my life.
 
-Personal Investing: I enjoy managing my own brokerage account of personal savings.
+**Personal Investing:** I enjoy managing my own brokerage account of personal savings.
 
-TV Shows: Currently watching Succession, Barry, and JoJo's Bizzare Adventure. Always open to recommendations!
+**TV Shows:** Currently watching Succession, Barry, and JoJo's Bizzare Adventure. Always open to recommendations!
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
