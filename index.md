@@ -24,7 +24,7 @@ Or: The process that created this page can be used to show off your whole midter
 
 ---
 
-_**[ESG Metics and Stock Returns]([https://donbowen.github.io/teamproject/](https://nicole-elchaar-esg-dashboard-app-mpiwio.streamlit.app/))**_
+_**[ESG Metics and Stock Returns](https://nicole-elchaar-esg-dashboard-app-mpiwio.streamlit.app/))**_
 
 How do ESG scores affect companies' stock performance? Can ESG scores be used in predictive modeling? This project, done with a team of classmates,
 examines the relationship between various ESG metrics and the stock perfomance of the S&P 500. 
