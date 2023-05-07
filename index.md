@@ -29,7 +29,7 @@ _**[ESG Metics and Stock Returns]([https://donbowen.github.io/teamproject/](http
 How do ESG scores affect companies' stock performance? Can ESG scores be used in predictive modeling? This project, done with a team of classmates,
 examines the relationship between various ESG metrics and the stock perfomance of the S&P 500. 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/newplot.png?raw=true"/>
 
 ---
 
