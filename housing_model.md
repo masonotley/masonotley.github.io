@@ -5,7 +5,7 @@ layout: wide_default
 
 # Predictive Model: Housing Prices
 
-This model utilizes sklearn to train a Lasso regression model to predict the log value of housing sale prices. The model employs a variety of categorical and numerical variables, and is optimized using the alpha and SimpleImputer strategy. To learn more about elements of the following code, visit[sklearn's website.](https://scikit-learn.org/stable/)
+This model utilizes sklearn to train a Lasso regression model to predict the log value of housing sale prices. The model employs a variety of categorical and numerical variables, and is optimized using the alpha and SimpleImputer strategy. Select input and output of the model are shown below to illustrate how the model was built. To learn more about elements of the following code, visit [sklearn's website.](https://scikit-learn.org/stable/)
 
 ### Preprocessing Pipeline
 
@@ -73,3 +73,5 @@ output:
 |987|190_902402250|11.648451|
 |988|284_908226130|11.362185|
 989 rows × 2 columns
+
+The "parcel" variable is a unique identifyer for the housing properties, and the "prediction" variable is the models prediciton of the log value of the property's selling price. On the test data, the model yielded an R-squared score of 0.89116, which I consider fairly accurate given the data provided. This type of model performs well for predicting housing prices, and can be used in a variety of predictive applications. 
