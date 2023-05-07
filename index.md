@@ -16,14 +16,6 @@ This analysis examines how the sentiment of 10-K files affects the stock returns
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
 _**[ESG Metics and Stock Returns](https://nicole-elchaar-esg-dashboard-app-mpiwio.streamlit.app/)**_
 
 How do ESG scores affect companies' stock performance? Can ESG scores be used in predictive modeling? This project, done with a team of classmates,
