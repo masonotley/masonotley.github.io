@@ -59,19 +59,18 @@ df = pd.DataFrame({'parcel':holdout['parcel'],
 df
 ```
 output:
-||parcel|prediction|
-|-----|-----|-----|
-|0|1_526301100|12.085142|
-|1|988_924100040|12.164829|
-|2|984_923275140|11.684968|
-|3|977_923227080|11.944337|
-|4|803_906203120|12.434177|
-|...|...|...|
-|984|208_903476030|11.891243|
-|985|207_903454060|11.007243|
-|986|187_902401060|11.380163|
-|987|190_902402250|11.648451|
-|988|284_908226130|11.362185|
+	parcel	prediction
+0	1_526301100	12.085142
+1	988_924100040	12.164829
+2	984_923275140	11.684968
+3	977_923227080	11.944337
+4	803_906203120	12.434177
+...	...	...
+984	208_903476030	11.891243
+985	207_903454060	11.007243
+986	187_902401060	11.380163
+987	190_902402250	11.648451
+988	284_908226130	11.362185
 989 rows × 2 columns
 
 The "parcel" variable is a unique identifyer for the housing properties, and the "prediction" variable is the models prediciton of the log value of the property's selling price. On the test data, the model yielded an R-squared score of 0.89116, which I consider fairly accurate given the data provided. This type of model performs well for predicting housing prices, and can be used in a variety of predictive applications. 
