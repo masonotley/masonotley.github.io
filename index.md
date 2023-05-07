@@ -25,7 +25,9 @@ examines the relationship between various ESG metrics and the stock perfomance o
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**[Predicitve Modeling of Housing Prices](housing_model.md)**_
+
+Using sklearn in python, this predictive model estimates the log of housing prices based on a variety of numerical and categorical variables about the properies' characteristics. The model is optimized by tuning the alpha and SimpleImputer strategy hyperparameters, as well as selecting categorical variables to maximize the R^2 score of the Lasso model. 
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
