@@ -60,6 +60,6 @@ df
 ```
 output:
 
-![images/Screenshot 2023-05-07 at 6.32.26 PM.png]
+![/images/Screenshot 2023-05-07 at 6.32.26 PM.png]
 
 The "parcel" variable is a unique identifyer for the housing properties, and the "prediction" variable is the models prediciton of the log value of the property's selling price. On the test data, the model yielded an R-squared score of 0.89116, which I consider fairly accurate given the data provided. This type of model performs well for predicting housing prices, and can be used in a variety of predictive applications. 
